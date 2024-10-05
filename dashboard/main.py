@@ -181,3 +181,5 @@ plt.xlabel('Rating')
 plt.ylabel('Count')
 plt.xticks(fontsize=12)
 st.pyplot(fig)
+
+st.caption('Copyright (C) Dean G. P. 2024')
